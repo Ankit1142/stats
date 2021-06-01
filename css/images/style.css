@@ -1,0 +1,51 @@
+body{
+background-color: black;
+position: relative;
+font-family: 'Lato', sans-serif;
+}
+h1{
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+h2{
+  color: white;
+}
+h5{
+  color: white;
+}
+th{
+  color: white;
+  font-size:1.6rem;
+
+}
+table {
+       border-collapse: separate;
+       border-spacing:30px 0;
+        color: white;
+     }
+
+.a{
+margin: 80px 100px 80px 100px;
+}
+.a1{
+  position: absolute;
+background-color: #0c4271;
+    width:380px;
+    height:320px;
+    padding: 20px;
+}
+.a2{
+  color: #ac66cc;
+  margin-right: 100px;
+  width:420px;
+  height:360px;
+  position: absolute;
+  right:40px;
+  filter: sepia(100%);
+        -webkit-filter: sepia(100%);
+
+}
+.b{
+  color:#ac66cc;
+}
